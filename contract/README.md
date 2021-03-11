@@ -1,0 +1,17 @@
+permits:
+    Admin 管理员权限
+
+
+members:
+    token 奖励用的token合约地址
+    cashier token管理员的地址
+
+
+test net contract address:
+    owner: 0x7De2DB218cd332AEd620c8D235ae058F5b80A0Bb
+    FMP: 0x10787620696a92CBB2e63311C161F1D00d96e633
+    LP1: 0x35d1f6f391f38019919dbC31585dE246Fd2adC22
+    LP2: 0x7256ee1D7eFcDc400622A1AEA3a2177DA56f5Ed9
+    LP3: 0x023F194aF3452536bC652f6Db135f9ECeB9EaD7f
+    StakingPool: 0x0C9e268005E0768527290681fA0279E387e999A6
+    Manager: 0x1b1B44Ce125d207AD03c19681AA565b8796BEBA2
